@@ -1,16 +1,32 @@
-# my_app
+# 项目描述
 
-A new Flutter project.
+个人 flutter 项目 初体验
 
-## Getting Started
+## 入门推荐
 
-This project is a starting point for a Flutter application.
+推荐一些适合入门学习的文档链接
 
-A few resources to get you started if this is your first Flutter project:
+- [flutter 官网](https://flutter.dev/docs/get-started/codelab)
+- [一些flutter实例](https://flutter.dev/docs/cookbook)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 安装以及配置环境
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+安装以及配置环境，参考 [flutter官网](https://flutter.dev/docs/get-started/install)
+
+1. 检查Android设备是否在运行。如果没有显示, 请参照[配置教程](https://flutter.dev/docs/get-started/install)
+
+```
+flutter devices
+```
+
+2. 运行 flutter run 命令来运行应用程序
+
+```
+flutter run
+
+```
+
+如果一切正常，在应用程序建成功后，可以在设备或模拟器上看到应用程序:
+
+![](https://flutterchina.club/get-started/codelab/images/step7-themes.png)
+
